@@ -1,4 +1,4 @@
-# Tibame 機器學習課程
+# Tibame 機器學習
 
 #### KNN、SVC、RandomForest分析鐵達尼號
 
