@@ -2,7 +2,7 @@
 
 #### KNN、SVC、RandomForest分析鐵達尼號
 
-#### Kaggle top 10%
+#### Kaggle top 5%
 
 #### 2021/05/16 update by ChienMing Lin
 
