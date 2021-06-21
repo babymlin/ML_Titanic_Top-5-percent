@@ -4,7 +4,7 @@
 
 #### Kaggle top 5%
 
-#### 2021/05/16 update by ChienMing Lin
+#### 2021/6/21 update by ChienMing Lin
 
 ![image](https://github.com/babymlin/TQC_AI_Licence/blob/main/Q.png?raw=true)
 
